@@ -478,3 +478,8 @@ a.mk-google:hover{transform:translateY(-1px)}
 .mk-sluzby--karty .mk-sluzba{background:var(--paper);border:1px solid var(--line);border-radius:var(--r);padding:18px 20px}
 .mk-sluzby--karty .mk-sluzba b{display:block;margin-bottom:6px;font-size:16px}
 .mk-sluzby--karty .mk-sluzba p{margin:0;color:var(--ink-soft);font-size:14.5px;line-height:1.55}
+
+/* 14. 10. 2026: fotky celé, bez ořezu loga RE/MAX v rohu */
+.dt-galerie .show__stage{aspect-ratio:3/2}
+.mk-kart__foto{aspect-ratio:3/2}
+.mk-karta__foto{aspect-ratio:16/9}
